@@ -1,2 +1,2 @@
 # Netflix-movies-TV-shows
-Explore the world of Netflix content like never before with this interactive Tableau dashboard. Gain comprehensive insights into the diverse array of movies and TV shows available on Netflix. This dashboard visualizes data related to content distribution by country, ratings, genre, and release years enabling users to understand growth patterns.
+This Tableau dashboard provides an in-depth analysis of Netflix titles, offering insights into the total number of movies and shows, their distribution by country, ratings, genres, and release years. By visualizing this data, users can gain a comprehensive understanding of the Netflix content library and uncover trends and patterns within it.
